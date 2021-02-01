@@ -1,0 +1,8 @@
+main: me.MelonNootFound.Gamble.Main
+name: Gamble
+version: 0.0.1
+author: MelonNootFound
+api-version: 1.13
+
+commands:
+  gamble:
