@@ -2,7 +2,7 @@
 a GUI game for spigot minecraft
 
 ## Commands
-/gamble - takes a diamond from your inventory, making a GUI spinner pop up for you to win prizes!
+/gamble - takes 3 diamonds from your inventory, making a GUI spinner pop up for you to win prizes!
 
 ## Download
 1. download Gamble.jar from the repository
